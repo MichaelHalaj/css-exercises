@@ -20,6 +20,25 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  display: flex;
+  padding: 10px;
+  gap: 16px;
+  padding:16px;
+}
+.second{
+  display:flex;
+  align-items: center;
+}
+.first{
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.header{
+  font-size: large;
+}
+.close-button{
+  margin-left: auto;
 }
 
 .icon {
