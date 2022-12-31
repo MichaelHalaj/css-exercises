@@ -102,6 +102,13 @@
   height: 200px;
 }
 
+.logo {
+  justify-self: start;
+}
+
+.menu {
+  align-self: center;
+}
 .card p {
   color: black;
   font-weight: normal;
